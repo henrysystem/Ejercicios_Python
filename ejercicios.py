@@ -77,7 +77,7 @@ def mayores_tuplas(lista):
 tupla_mayor = mayores_tuplas(ordenados)
 pprint(tupla_mayor)
 
-# Crear un mensaej que diga: Los caracteres que más se repiten con x repeticiones son: -C = 9
+# Crear un mensaje que diga: Los caracteres que más se repiten con x repeticiones son: -C = 9
 
 
 def crea_mensaje(dicciona):
